@@ -1,3 +1,3 @@
 print("Hello, world!")
-print("Hello, world12345678!")
+print("Ini untuk issue tkti-11")
 
