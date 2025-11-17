@@ -4,7 +4,7 @@ from typing import List
 
 def print_intro() -> None:
     print("Hello, world!")
-    print("Inii untuk issue tkti-17 revisi")
+    print("Ini untuk issue tkti-17 revisi")
     print("tes worklflow ketiga")
 
 
